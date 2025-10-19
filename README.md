@@ -1,2 +1,3 @@
-# PowerBI-HR-Data-Analysis
-Data analysis of historical HR data using Power BI to improve employee management and retention for a multinational corporation. Dashboard analyzes demographics, compensation, tenure (avg. 12.48 yrs), and turnover (exit rate 8.50%).
+# PowerBI-HR-Data-Analysis (Interactive Dashboard)
+## Project Objective
+The purpose of this dashboard is to help organizations make data-driven HR decisions by analyzing employee-related data across demographics, compensation, retention, and workforce distribution.
