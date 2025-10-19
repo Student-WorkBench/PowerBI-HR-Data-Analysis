@@ -34,4 +34,4 @@ The final stage of the analysis is to convert data insights into practical busin
    ##Dashboard Interaction
    - <a href="  - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20205551.png">View Dashboard(Employee Demographics)</a>
    - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20210650.png">View(Job Titles and employees Compensation)</a>
-     <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20211350.png">View Dashboard(Hiring rate and Exit rate)</a>
+    - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20211350.png">View Dashboard(Hiring rate and Exit rate)</a>
