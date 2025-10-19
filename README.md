@@ -69,6 +69,22 @@ Support strategic HR decision-making.
 <img width="1104" height="535" alt="Screenshot 2025-10-17 210650" src="https://github.com/user-attachments/assets/d77d0354-598e-4062-af96-3d0d31905e85" />
 <img width="1103" height="547" alt="Screenshot 2025-10-17 211350" src="https://github.com/user-attachments/assets/f378b8ea-94b6-496f-8c69-44df0e1cb14c" />
 
+## Project Insight
+Workforce Stability & Tenure
+ * High Stability: The company maintains a low overall Exit Rate (\mathbf{8.50\%}) and a high Average Tenure (\mathbf{12.48} years), indicating a generally stable and experienced workforce.
+ * Turnover Peak: The employee exit rate peaks in June and August, suggesting a concentrated period of high turnover (e.g., post-bonus or summer departures).
+Compensation & Critical Roles
+ * High-Value Roles: Vice President and System Administrator roles command the highest average annual salaries.
+ * VP Instability: The Vice President role shows a high exit count relative to its small size, indicating a potential critical instability in senior leadership.
+ * Largest Departments: IT and Engineering are the two largest departments by headcount, making them critical for resource planning and talent management.
+Demographics & Diversity
+ * Geographic Concentration: The workforce is heavily concentrated in the United States.
+ * Ethnic Majority: Asian is the largest ethnic group, followed by Caucasian and Latino.
+ * Gender Balance: The gender distribution is relatively balanced across the major 25-35 and 36-45 age categories.
+ * Historical Growth: The company has experienced consistent and significant growth since the early 2000s, with an acceleration in recent years.
+ ## Final Conclusion:
+ This HR Analytics case study resulted in a comprehensive Power BI dashboard that confirms a stable and experienced workforce, demonstrated by a low \mathbf{8.50\%} Exit Rate and high \mathbf{12.48} year average tenure. However, the analysis revealed a critical need for focused retention efforts: senior leadership roles, specifically Vice President, show concerning turnover, and the overall exit rate consistently peaks in the summer (June/August). The dashboard is now a strategic tool for the HR department, enabling them to move past simple reporting to proactively address these risks and optimize management of their highly concentrated US-based IT and Engineering talent.
+
 
 
    
