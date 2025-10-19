@@ -36,5 +36,32 @@ The final stage of the analysis is to convert data insights into practical busin
    - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20210650.png">View Dashboard(Job Titles and employees Compensation)</a>
     - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20211350.png">View Dashboard(Hiring rate and Exit rate)</a>
     ## Process
+   1. Workforce Demographics Analysis:
+Visualize employee distribution by gender, age, ethnicity, department, and business unit.
+Understand overall workforce composition.
+
+2. Diversity & Inclusion Insights:
+Measure diversity across departments and job roles.
+Identify underrepresented groups and areas where diversity can be improved.
+
+3. Geographic Employee Distribution:
+Map employee locations by country and city using latitude and longitude.
+Highlight regions with high employee concentration.
+
+5. Salary & Compensation Analysis:
+Analyze salary and bonus percentage trends across departments, job titles, gender, and ethnicity.
+Detect compensation gaps or imbalances.
+
+5. Hiring & Exit Trends:
+Track hiring and resignation patterns (monthly, quarterly, yearly).
+Identify departments with high turnover rates.
+
+6. Employee Tenure & Retention:
+Calculate average employee tenure by department and job title.
+Explore factors affecting employee retention.
+
+8. Actionable HR Recommendations:
+Generate insights to improve retention, compensation fairness, and diversity in the workplace.
+Support strategic HR decision-making.
    
    
