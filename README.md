@@ -32,7 +32,7 @@ The final stage of the analysis is to convert data insights into practical busin
  * What strategies can be implemented to promote diversity and inclusion within the corporation?
 
    ## Dashboard Interaction
-   - <a href="  - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20205551.png">View Dashboard(Employee Demographics)</a>
+   - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20205551.png">View Dashboard(Employee Demographics)</a>
    - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20210650.png">View Dashboard(Job Titles and employees Compensation)</a>
     - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20211350.png">View Dashboard(Hiring rate and Exit rate)</a>
     ## Process
