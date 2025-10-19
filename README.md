@@ -2,7 +2,7 @@
 ## Project Objective
 The purpose of this dashboard is to help organizations make data-driven HR decisions by analyzing employee-related data across demographics, compensation, retention, and workforce distribution.
 # Dataset used
-<a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/HR%20Data%20Analysis%20(1).xlsx">Dataset</a>
+- <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/HR%20Data%20Analysis%20(1).xlsx">Dataset</a>
 ## Questions (KPIs)
 1. Employee Demographics
  * What is the demographic breakdown of employees in terms of gender, ethnicity, age, and location?
@@ -30,3 +30,8 @@ The purpose of this dashboard is to help organizations make data-driven HR decis
 The final stage of the analysis is to convert data insights into practical business strategies.
  * Based on the analysis, what recommendations can be made to improve HR policies, enhance employee retention, and reduce turnover?
  * What strategies can be implemented to promote diversity and inclusion within the corporation?
+
+   ##Dashboard Interaction
+   - <a href="  - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20205551.png">View Dashboard(Employee Demographics)</a>
+   - <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20210650.png">View(Job Titles and employees Compensation)</a>
+     <a href="https://github.com/Student-WorkBench/PowerBI-HR-Data-Analysis/blob/main/Screenshot%202025-10-17%20211350.png">View Dashboard(Hiring rate and Exit rate)</a>
