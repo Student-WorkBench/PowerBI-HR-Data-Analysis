@@ -63,5 +63,13 @@ Explore factors affecting employee retention.
 8. Actionable HR Recommendations:
 Generate insights to improve retention, compensation fairness, and diversity in the workplace.
 Support strategic HR decision-making.
+
+## Dashboard
+<img width="1077" height="536" alt="Screenshot 2025-10-17 205551" src="https://github.com/user-attachments/assets/7c16d01e-3df4-492a-8a4a-6fb29b5d931d" />
+<img width="1104" height="535" alt="Screenshot 2025-10-17 210650" src="https://github.com/user-attachments/assets/d77d0354-598e-4062-af96-3d0d31905e85" />
+<img width="1103" height="547" alt="Screenshot 2025-10-17 211350" src="https://github.com/user-attachments/assets/f378b8ea-94b6-496f-8c69-44df0e1cb14c" />
+
+
+
    
    
